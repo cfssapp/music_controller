@@ -19,3 +19,9 @@ python .\manage.py migrate
 python .\manage.py runserver
 
 # 02 Django REST Framework
+
+python .\manage.py makemigrations
+
+python .\manage.py migrate
+
+serializers.py

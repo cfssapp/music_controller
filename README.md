@@ -25,3 +25,5 @@ python .\manage.py makemigrations
 python .\manage.py migrate
 
 serializers.py
+
+# 03 React Webpack Babel

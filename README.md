@@ -61,3 +61,9 @@ python .\manage.py runserver
 # 06 Material UI Components
 
 # 07 Calling API Endpoints
+
+/api/get-room?code=hello
+
+/api/room
+
+/room/ABCDEF
